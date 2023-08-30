@@ -1,16 +1,27 @@
-### Hi there 👋
+Olá, eu sou Jorge, Tenho 35 anos e atualmente estou cursando Engenharia de Software participo, da formação profissionalizante na DevSuperior Desenvolvimento Full-Stack, do projeto da Cubos Academy + IFOOD desenvolvimento de software focado em back-end com duração de 6 meses e participei do projeto Oracle + Alura turma 4 back-end Java com a formação em Julho/2023.
+Estou focado na stack Back-end.
 
-<!--
-**JorginhoO/JorginhoO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contatos
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://www.linkedin.com/in/jorge-sidney-dev/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:jorge.info88@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades Técnicas
+- Java
+- JavaScript
+- Node.JS
+- Postgres
+- MySQL
+
+## Ferramentas
+- Git
+- GitHub
+- Postman
+- Insommia
+- Miro
+- Trello
+
+## Educação
+- Cursando Bacharelado em Engenharia de software
+          

@@ -1,5 +1,6 @@
-Olá, eu sou Jorge, Tenho 35 anos e atualmente estou cursando Engenharia de Software, participo, da formação profissionalizante na DevSuperior Desenvolvimento Full-Stack, projeto da Cubos Academy + IFOOD desenvolvimento de software focado em back-end com duração de 6 meses e participei do projeto Oracle + Alura turma 4 back-end Java com a formação em Julho/2023.
-Estou focado na stack Back-end.
+🖐🏾 Olá,  Estou cursando o primeiro semestre de Engenharia de Software no ensino superior. Atualmente, estou participando da formação profissionalizante em Desenvolvimento Full-Stack "Java + Spring / JavaScript + React" na DevSuperior. Além disso, completei o curso na Cubos Academy + IFOOD, aprofundando meus conhecimentos em desenvolvimento de software voltado para back-end "Node.js", ao longo de 6 meses, com término em novembro de 2023. Também fiz parte do projeto Oracle + Alura, finalizando a formação em back-end "Java" em julho de 2023.
+
+👨🏾‍💻 Estou interessado em ingressar no ambiente de desenvolvimento de software, seja como estagiário, desenvolvedor Trainee ou Júnior, onde possa aplicar meus sólidos conhecimentos na área da computação e colaborar efetivamente em equipe.
 
 ## Contatos
 
